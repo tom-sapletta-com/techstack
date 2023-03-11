@@ -36,6 +36,21 @@ OpenSSF is committed to collaboration and working both upstream and with existin
 
 
 
+
+## [UCS Univention Corporate Server: easy-to-use IT operations](https://www.univention.com/products/ucs/)
+
+> # Univention Corporate Server  
+> Server software for easy-to-use IT operations
+> 
+> Univention Corporate Server (UCS) is the innovative basis for the cost-efficient operation and easy administration of server applications and entire IT infrastructures. UCS is optimally suited to the management of distributed heterogeneous and virtualized IT environments, regardless of whether you employ Microsoft Windows, Mac OS X or Linux systems.
+> 
+> The integrated identity and infrastructure management system makes it easy to administrate applications, users and resources. Server and desktop solutions can be administrated centrally and across different locations and platforms via an easy-to-use web interface.
+> 
+> Thanks to its standardized interfaces, UCS can be integrated easily into existing environments. The integrated App Center offers a multitude of enterprise solutions, which can be run or operated virtually with just a few clicks. Extensive Active Directory functions allow integration in Microsoft Windows environments or their replacement.
+
++ [Univention App Center Catalog - Apps to Download and Use in UCS](https://www.univention.com/products/univention-app-center/app-catalog/)
+
+
 ## Documentation
 
 + [Vitebook](https://vitebook.dev/guides/pages.html)
